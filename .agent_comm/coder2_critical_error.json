@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save scripts/run_single_task.py: [Errno 2] No such file or directory: 'artifacts/projects/MENTAT_Reasoning_Intensive_Regression/scripts/run_single_task.py'",
+  "details": {},
+  "timestamp": "2025-09-02T20:47:37.063093"
+}
