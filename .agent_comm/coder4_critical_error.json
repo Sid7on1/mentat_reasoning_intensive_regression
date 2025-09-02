@@ -1,0 +1,8 @@
+{
+  "from": "coder4",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save notebooks/analysis.ipynb: [Errno 2] No such file or directory: 'artifacts/projects/MENTAT_Reasoning_Intensive_Regression/notebooks/analysis.ipynb'",
+  "details": {},
+  "timestamp": "2025-09-02T20:47:53.682499"
+}
