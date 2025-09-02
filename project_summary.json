@@ -1,0 +1,16 @@
+{
+  "project_name": "MENTAT_Reasoning_Intensive_Regression",
+  "project_type": "nlp",
+  "completion_time": "2025-09-02T20:48:09.069888",
+  "total_tasks": 8,
+  "completed_tasks": 6,
+  "failed_tasks": 2,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/MENTAT_Reasoning_Intensive_Regression"
+}
